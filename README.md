@@ -10,9 +10,6 @@ Importent:
 ```
 npm i react-native-splash-screen
 ```
-```
-react-native link react-native-splash-screen
-```
 
 3.) Add your_splash.png to all minmap folders.
  - Go to android/app/src/main/res
