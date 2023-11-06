@@ -39,13 +39,14 @@ npm i react-native-splash-screen
 ```
 
 6.) Go to **res/values/styles.xml** replace the code
+    - background_splash means for background_splash.xml file.
 ```
 <resources>
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowDisablePreview">true</item>
-        <item name="android:windowBackground">@mipmap/your_splash</item>
+        <item name="android:windowBackground">@drawable/background_splash</item>
     </style>
 
 </resources>
