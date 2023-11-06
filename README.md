@@ -6,12 +6,10 @@ Importent:
  - There you will find minmap folders
 
 1.) Initialise a bare react native app (if not already done).
+
 2.) Install react-native-splash-screen and link the library.
 ```
 npm i react-native-splash-screen
-```
-```
-react-native link react-native-splash-screen
 ```
 
 3.) Add your_splash.png to all minmap folders.
