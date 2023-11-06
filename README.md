@@ -39,7 +39,7 @@ npm i react-native-splash-screen
 ```
 
 6.) Go to **res/values/styles.xml** replace the code
-    - background_splash means for background_splash.xml file.
+- background_splash means for background_splash.xml file.
 ```
 <resources>
 
