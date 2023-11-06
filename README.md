@@ -34,7 +34,7 @@ npm i react-native-splash-screen
  android:orientation="vertical"
  android:layout_width="match_parent"
  android:layout_height="match_parent"
- android:background="@drawable/your_splash"
+ android:background="@mipmap/bg_screen"
 />
 ```
 
