@@ -45,7 +45,7 @@ npm i react-native-splash-screen
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowDisablePreview">true</item>
-        <item name="android:windowBackground">@drawable/background_splash</item>
+        <item name="android:windowBackground">@mipmap/your_splash</item>
     </style>
 
 </resources>
